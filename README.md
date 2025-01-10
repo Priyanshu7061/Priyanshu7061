@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Gupta</h1>
 <h3 align="center">A passionate UI/UX Developer,Graphic Designer</h3>
-<img src="https://www.google.com/search?sca_esv=cdd254c21b8d358a&sxsrf=ADLYWILcQDRWc79OvilAGE96qP0xAtBUDQ:1736511489176&q=frontend+developer+photo+vector&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOa0K08TrPholP8ECM8ELoq5GeRrUvU44UjKtPgUX-2DV1UQVKIioKq9YP8hjr2s4XGUs7BYUWgrA1zGzjnSuLz0Rv9SOxJBYa2HuYoyuz0gUJ8I_0DE-GtDv_SDOIZzgEUF8lIMmGKJCeFzaPcqEnsoKlWNMQ&sa=X&ved=2ahUKEwiVvtezkeuKAxXhklYBHbjaEYEQtKgLegQIFBAB&biw=1536&bih=695&dpr=1.25#vhid=db5YbXl1XJAJNM&vssid=mosaic">
 
 - 📫 How to reach me **Priyanshuguptagupta077@gmail.com**
 
