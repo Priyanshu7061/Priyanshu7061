@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate UI/UX Developer,Graphic Designer</h3>
 <img src="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#fromView=keyword&page=1&position=7&uuid=141cbc0b-1b32-4581-97b6-9bba8ae878c4"
 
 - 📫 How to reach me **Priyanshuguptagupta077@gmail.com**
